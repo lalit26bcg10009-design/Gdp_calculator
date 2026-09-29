@@ -13,13 +13,7 @@ Simple python program to calculate GDP using different methods. Runs in terminal
 - Per capita GD  
 - Saves history of calculations
 
-## How to run
 
-```
-python gdp_calculator.py
-```
-
-Or double click `Run GDP Calculator.bat`
 
 ## Requirements
 - Python 3
